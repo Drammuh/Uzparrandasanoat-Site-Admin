@@ -1,0 +1,109 @@
+@media(max-width:720px){
+	header a.navbar-brand{
+		display: block;
+		margin: 10px auto;
+		float: unset;
+		text-align: center;
+	}
+	header button {
+    float: unset;
+    display: block;
+    padding: 10px 0px;
+    border-radius: 20px;
+    width: 200px;
+    background-color: #fff;
+    color: #90592b;
+    font-size: 18px;
+    border: 0px;
+    margin: 10px auto;
+	}
+	header .info i {
+    left: -26px;
+    top: 10px;
+	}
+	header .info {
+    display: block;
+    width: 300px;
+    float: unset;
+    font-size: 18px;
+    margin: auto;
+    padding-left: 20px;
+	}
+	.navbar-toggle .icon-bar {
+    width: 28px;
+    background-color: #fff;
+    height: 3px;
+    
+	}
+	.navbar-toggle{
+		border: 1px solid #fff;
+	}
+	nav.navbar {
+    padding: 10px 0px;
+	}
+	.navbar-nav{
+		text-align: center;
+	}
+	nav.navbar button.open_search {
+    float: unset;
+    display: block;
+    margin: auto;
+		padding: 5px 0px 20px 0px;
+	}
+	.news .news_box .img img {
+		width: 100%;
+	}
+	ul.navi{
+		margin-bottom: 30px;
+	}
+	.clients img {
+		width: 100%;
+	}
+	.links{
+		background-color: #e8e8e8;
+		padding: 0;
+		
+	}
+	.links a {
+			border: 2px solid #e8e8e8; 
+		}
+	footer .askme form {
+    position: unset;
+    height: auto;
+    border-top: 0px solid #e18c44;
+    top: unset;
+    padding: 20px;
+    margin: 30px 0px;
+	}
+	.bottom .text-left,
+	.bottom .text-right{
+		text-align: center;
+		
+	}
+	.container>.navbar-collapse {
+		background-color: #e18c44;
+	}
+	.slider img {
+    height: 100%;
+    width: auto;
+	}
+	.slider .caption h3 {
+    font-size: 29px;
+	}
+	.slider .caption hr{
+		width: 30%;
+	}
+	.search_box .container form {
+    top: -91px;
+	}
+	nav.navbar.affix + .search_box .container form.active {
+    top: 384px;
+	}
+	.info_box .video,
+	.info_box a.magazin{
+		margin-bottom: 30px;
+	}
+	nav.navbar ul.nav li a {
+    padding: 10px 5px;
+	}
+}

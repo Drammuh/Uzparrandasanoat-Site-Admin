@@ -1,0 +1,260 @@
+{
+    "settings": {
+        "site_name": "Uzparranda.uz",
+        "logo": "LOGO",
+        "hero_title": "Узпаррандасаноат",
+        "hero_subtitle": "Узптицапром",
+        "feedback_label": "Тескари алока",
+        "phone_1": "+ 99871 123 45 67",
+        "phone_2": "+ 99871 123 45 67",
+        "address": "Тошкент ш. Амир Темур кучаси 110 уй",
+        "email": "info@uzparranda.uz",
+        "director": "Файзиев Мансур",
+        "director_role": "Директор",
+        "about_title": "Уюшма хакида",
+        "about_text": "Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Cras dapibus. Vivamus elementum semper nisi.",
+        "magazine_title": "“Ўзбекистон Паррандачилиги” журнали",
+        "magazine_image": "img/magazine.png",
+        "poll_title": "Сўровнома",
+        "poll_question": "Бизнинг сайтимиз сизга ёқдими?",
+        "footer_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+        "footer_credit": "Сайт яратилди MD.uz",
+        "copyright": "© 2017 Uzparranda.uz.",
+        "form_title": "Сўров жўнатиш",
+        "form_name": "Исм-шарифингиз",
+        "form_email": "Электрон почта",
+        "form_phone": "Телефон номер",
+        "form_company": "Корхона номи",
+        "form_message": "Хабар матни",
+        "form_submit": "Жўнатиш"
+    },
+    "nav": [
+        "Уюшма хакида",
+        "Янгиликлар",
+        "Вокеалар",
+        "Маколалар",
+        "Конунчилик",
+        "Наслчилик",
+        "Ветеринария",
+        "Махсулотлар",
+        "Озукалар"
+    ],
+    "sidebar": [
+        "Фаолият",
+        "Низом",
+        "Хизматлар"
+    ],
+    "poll_options": [
+        "аъло",
+        "яхши",
+        "қониқарли",
+        "ёмон"
+    ],
+    "clients": [
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        },
+        {
+            "image": "img/client.png",
+            "alt": "Client"
+        }
+    ],
+    "links": [
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        },
+        {
+            "title": "press-service.uz",
+            "url": "#"
+        }
+    ],
+    "gallery": [
+        {
+            "image": "img/mpict1.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict2.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict3.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict1.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict2.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict3.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict1.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict2.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict3.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict1.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict2.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict3.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict1.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        },
+        {
+            "image": "img/mpict2.jpg",
+            "caption": "Паррандачилик фотогалереяси"
+        }
+    ],
+    "social": [
+        {
+            "icon": "fa-facebook-square",
+            "url": "#"
+        },
+        {
+            "icon": "fa-instagram",
+            "url": "#"
+        },
+        {
+            "icon": "fa-google-plus-square",
+            "url": "#"
+        },
+        {
+            "icon": "fa-linkedin-square",
+            "url": "#"
+        }
+    ],
+    "calendar": {
+        "month": "2026-06",
+        "title": "Календарь событий",
+        "events": [
+            {
+                "date": "2026-06-05",
+                "time": "10:00",
+                "title": "Семинар",
+                "description": "Ўқув семинари",
+                "url": "#",
+                "color": "#e18c44"
+            },
+            {
+                "date": "2026-06-16",
+                "time": "14:00",
+                "title": "Учрашув",
+                "description": "Мутахассислар учрашуви",
+                "url": "#",
+                "color": "#1d6887"
+            },
+            {
+                "date": "2026-06-24",
+                "time": "11:00",
+                "title": "Кўргазма",
+                "description": "Соҳавий кўргазма",
+                "url": "#",
+                "color": "#5cb85c"
+            }
+        ]
+    },
+    "news": [
+        {
+            "id": "fargona-school",
+            "title": "Фарғонада паррандачилик мактаби иш бошлади",
+            "category": "Эълон",
+            "image": "img/pict1.jpg",
+            "large_image": "img/bpict.jpg",
+            "excerpt": "Лойиҳа доирасида аҳолига паррандачиликни тўғри ташкил этиш, парваришлаш ва махсус инкубаторлар билан ишлаш жараёнларини амалиёт билан боғлиқ ҳолда ўргатишга қаратилган ўқув-семинарлари ташкил этилади",
+            "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.\n\nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        },
+        {
+            "id": "incubator-training",
+            "title": "Инкубаторлар билан ишлаш бўйича семинар",
+            "category": "Янгилик",
+            "image": "img/pict1.jpg",
+            "large_image": "img/bpict.jpg",
+            "excerpt": "Мутахассислар паррандачилик хўжаликлари учун амалий машғулотлар ташкил этди.",
+            "body": "Паррандачилик соҳасидаги амалий билимларни ошириш мақсадида семинар ўтказилди.\n\nТадбирда фермерлар ва мутахассислар иштирок этди."
+        },
+        {
+            "id": "veterinary-support",
+            "title": "Ветеринария хизмати бўйича янги йўналиш",
+            "category": "Ветеринария",
+            "image": "img/pict1.jpg",
+            "large_image": "img/bpict.jpg",
+            "excerpt": "Соҳада профилактика ва маслаҳат хизматларини кучайтириш режалаштирилди.",
+            "body": "Ветеринария йўналишида янги хизматлар жорий этилади.\n\nБу тадбирлар маҳсулот сифати ва хавфсизлигини оширишга хизмат қилади."
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+﻿<?php
+$pageTitle = 'Admin';
+?>
+<b>Partial not found: C:\wamp\www\keenthemes\metronic_5\php/pages/portlet_ajax_content_error.php</b>
